@@ -14,3 +14,8 @@ A modern e-commerce website for electronic gadgets built with **HTML, CSS, JavaS
 
 ## � Live Demo  
 👉 [Visit AKIRA Electronic](https://amdadislam01.github.io/AKIRA-Electronic/)  
+
+
+## 🖼️ Project Screenshots
+
+<img src="https://i.imgur.com/g0uuQt5.png" width="1000">
